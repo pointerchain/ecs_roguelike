@@ -1,0 +1,4 @@
+# config/config.yaml
+
+player:
+  speed: 500;

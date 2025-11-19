@@ -1,6 +1,6 @@
-# CPP Project Name 
+# ECS Roguelike
 
-> A short description.
+> A roguelike game made in C++ using SFML and EnTT.
 
 ## Requirements
 
@@ -14,12 +14,5 @@
 ```bash
 cmake --preset default
 cmake --build --preset default
-build/default/ProjectName
-```
-
-## Example
-
-```bash
-$ ./build/default/ProjectName
-Hello, World!
+build/default/ecs_roguelike
 ```
